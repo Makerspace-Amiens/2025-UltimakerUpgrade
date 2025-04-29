@@ -22,7 +22,7 @@ Ici vous publierez le poster de votre projet.
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
+ici vous publierez la vidéo de votre projet. 
 - Moins de 1min30
 - Présentation du projet 
 - Des explication du fonctionnement du projet
