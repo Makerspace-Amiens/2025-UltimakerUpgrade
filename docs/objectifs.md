@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 3
-title: Objectifs du projet
+nav_order: 2
+title: Cahier des charges
 ---
 
 # Introduction
