@@ -33,7 +33,15 @@ Nous avons étudé 3 principaux axes de travail.
 
 
 
-# Études et choix techniques
+# Études et choix techniques  
+##  Études
 
 
-ici nos choix techniques
+Ici, nos choix techniques nous ont conduits à nous documenter sur les solutions déjà explorées par la communauté. Nous nous sommes donc naturellement tournés vers des forums spécialisés, tels que ceux d’Ultimaker, Reddit ou encore des sites comme le 3D Printing Forum, où de nombreux utilisateurs partagent leurs expériences de modification, notamment pour adapter leurs imprimantes au filament 1,75 mm.  
+[Commmunity Ultimaker](https://community.ultimaker.com/topic/42682-converting-um2-to-use-175mm-filaments/)  
+[Reddit](https://www.reddit.com/r/3Dprinting/comments/18ybb4n/175mm_filament_with_um2/?)  
+[Bondtech](https://www.bondtech.se/product-category/upgrade-kits/ultimaker/2-plus/?srsltid=AfmBOooCrlCi-MzGAHu-BPwZ0JeAs7G-8V1k4HR2SgKU6bL62DEvZO9V&utm)  
+
+
+
+
