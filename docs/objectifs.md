@@ -11,18 +11,31 @@ La **Ultimaker 2** et l'**Ultimaker 2+** sont des imprimantes 3D grand public d�
   <strong><em>Ultimaker 2 et 2+</em></strong><br>
   <img src="https://pick3dprinter.com/wp-content/uploads/2019/12/Ultimaker-2-vs-Ultimaker-2-Plus-1-2048x1151.jpg" alt="Ultimaker 2 et 2+" width="300" />
 </p>
-
+## Unimakers
+Unimakers Amiens est une association d’étudiants dans le domaine de la robotique au sein d’Unilasalle Amiens.
 
 # Problématique
-Ces imprimantes vendu à dizaine de millier d'exemplaire présentent un défaut actuel majeur elles utilisent un filament d'épaisseur 2,85mm or la grande majorité des nouvelles imprimantes utilisent du filament 1,75mm notamment dans la ferme Unimakers. Le filament 2,85mm se rarifie de ce fait à la vente avec une moins grande variété de matériaux. De plus le filament 1,75mm permet une extrusion plus précise et une meilleur réactivité de l'extrudeur.  
-# Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
-
-# Existant
-
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Ces imprimantes vendu à dizaine de millier d'exemplaire présentent un défaut actuel majeur elles utilisent un filament d'épaisseur 2,85mm or la grande majorité des nouvelles imprimantes utilisent du filament 1,75mm notamment dans la ferme d'impression Unimakers. Ce filament se rarifie à la vente avec une moins grande variété de matériaux. De plus le filament 1,75mm permet une extrusion plus précise et une meilleur réactivité de l'extrudeur. 
 
 # Cahier des Charges
+## Objectifs 
+- Nouvelle tête d'impression ainsi qu'un extrudeur compatible pour du 1,75mm
+- Adapter la firmware aux nouveaux composants
+- Tester et optimiser la qualité d'impression après modification
+- Assurer l'intégration des nouvelles machines modifiés dans la ferme d'impression
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+## Contraintes techniques
+- Vérifier la comptibilité des nouvelles pièces avec la structure des imprimantes
+- Ajuster la firmware et les paramtres d'impression en focntion des modifications
+- Maintenir ou améliorer la qualité et la fiabilité des impressions
+- Assurer une transition fluide pour les utilisateurs dde la ferme d'impression
+
+## Livrables attendu 
+- Des Ultimakers 2 et 2+ fonctionnelles avec du filament 1,75mm
+- Une documentation expliquant le processus de modification
+- Un comparatif des performances avant/après modification
+- Une validation de la compatbilité avec les workflows de la ferme d'impression
+
+
+
+
