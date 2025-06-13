@@ -18,7 +18,8 @@ Ce projet vise à moderniser les __Ultimaker 2 et 2+__ pour les adapter aux nouv
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster]("C:/Users/SDO/OneDrive/Documents/Template.jpg")
+
 
 ## Vidéo
 
