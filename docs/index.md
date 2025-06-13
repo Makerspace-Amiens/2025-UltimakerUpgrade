@@ -32,6 +32,9 @@ ici vous publierez la vidéo de votre projet.
 - Une conclusion
 - Si en stockage local : <50mo
 
-<video src="images/videoi3.mp4" controls title="Title"  style="width: 100%;"></video>
+## Démo vidéo
+
+(video.mp4)
+
 
 ---
