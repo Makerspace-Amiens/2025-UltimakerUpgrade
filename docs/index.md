@@ -33,8 +33,7 @@ ici vous publierez la vidéo de votre projet.
 - Si en stockage local : <50mo
 
 ## Démo vidéo
-
-(video.mp4)
+[🎥 Voir la vidéo](images/video.mp4)
 
 
 ---
